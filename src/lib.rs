@@ -5,6 +5,11 @@ pub fn add(left: usize, right: usize) -> usize {
 pub fn mul(left: usize, right: usize) -> usize {
     left * right
 }
+
+pub fn sub(left: usize, right: usize) -> usize {
+    left - right
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -19,5 +24,11 @@ mod tests {
     fn test_mul() {
         let result = mul(2, 2);
         assert_eq!(result, 4);
+    }
+
+    #[test]
+    fn test_sub() {
+        let result = sub(2, 2);
+        assert_eq!(result, 0);
     }
 }
