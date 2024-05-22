@@ -14,6 +14,10 @@ pub fn div(left: usize, right: usize) -> usize {
     left / right
 }
 
+pub fn modu(left: usize, right: usize) -> usize {
+    left % right
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -40,5 +44,11 @@ mod tests {
     fn test_div() {
         let result = div(2, 2);
         assert_eq!(result, 1);
+    }
+
+    #[test]
+    fn test_modu() {
+        let result = modu(2, 2);
+        assert_eq!(result, 0);
     }
 }
