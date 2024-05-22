@@ -1,6 +1,6 @@
 [package]
 name = "rust-github-action-test-b76u22ivt4z3"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple Rust project to test GitHub Actions"
 readme = "README.md"
