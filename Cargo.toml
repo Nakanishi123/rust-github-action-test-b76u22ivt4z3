@@ -1,10 +1,10 @@
 [package]
 name = "rust-github-action-test-b76u22ivt4z3"
-version = "18446744073709551610.18446744073709551610.18446744073709551610"
+version = "18446744073709551610.18446744073709551610.18446744073709551611"
 edition = "2021"
 description = "A simple Rust project to test GitHub Actions!"
 readme = "README.md"
 repository = "https://github.com/Nakanishi123/rust-github-action-test-b76u22ivt4z3"
-license = "AGPL-3.0-only"
+license = "Apache-2.0 OR Artistic-2.0 OR BSL-1.0 OR BSD-2-Clause OR BSD-3-Clause OR CECILL-2.1 OR Cryptix OR WTFPL OR ECL-2.0 OR EFL-2.0 OR GPL-2.0-only OR GPL-2.0-or-later OR GPL-3.0-only OR GPL-3.0-or-later OR LGPL-2.1-only OR LGPL-2.1-or-later OR LGPL-3.0-only OR LGPL-3.0-or-later OR Intel OR ISC OR MIT OR MPL-1.1 OR MPL-2.0 OR OSL-3.0 OR NCSA OR Zlib"
 
 [dependencies]
