@@ -17,9 +17,6 @@ jobs:
           rustup update stable --no-self-update
           rustup default stable
 
-      - name: Install rustfmt
-        run: cargo install rustfmt
-
       - name: Check formatting
         run: cargo fmt -- --check
   lint:
@@ -32,9 +29,6 @@ jobs:
         run: |
           rustup update stable --no-self-update
           rustup default stable
-
-      - name: Install clippy
-        run: cargo install clippy
 
       - name: Check for linting errors
         run: cargo clippy -- -D warnings
