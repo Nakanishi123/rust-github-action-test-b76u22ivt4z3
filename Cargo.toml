@@ -1,8 +1,76 @@
 [package]
 name = "rust-github-action-test-b76u22ivt4z3"
-version = "18446744073709551610.18446744073709551611.18446744073709551610"
+version = "18446744073709551610.18446744073709551611.18446744073709551612"
 edition = "2021"
-description = "Library of simple four arithmetic operations"
+description = """
+A Code Compiled with Love
+Act I: The Feud
+
+In the city of Verona, two prestigious programming families, the C++ family and the Go family, have been at odds for as long as anyone can remember. The rivalry between these two houses has caused countless rifts and battles in the community of coders, each family staunchly defending their language’s superiority.
+Scene 1: The Encounter
+
+One day, during a grand tech conference held in the heart of Verona, a young Gopher from the Go family, known for his nimble and efficient code, found himself wandering through the halls, marveling at the various presentations and innovations. Little did he know, destiny had something extraordinary in store for him.
+
+In another part of the hall, the elegant Pointer, daughter of the C++ family, gracefully navigated the sea of attendees. Known for her precision and control, she was the pride of the C++ family, and many revered her skills. As fate would have it, Gopher and Pointer's paths crossed, and in that instant, they both felt an inexplicable connection.
+Scene 2: The Instant Attraction
+
+Their eyes met, and the world around them seemed to fade away. Gopher, entranced by Pointer's charm and elegance, approached her cautiously. “Greetings,” he began, “I am Gopher, from the Go family. Forgive my forwardness, but I feel as though I’ve known you forever.”
+
+Pointer, equally captivated, smiled warmly. “I am Pointer, from the C++ family. It is a rare delight to meet someone who appreciates the beauty of a well-crafted program.”
+
+Their conversation flowed effortlessly, and they soon found themselves lost in discussions about code efficiency, memory management, and the art of programming. However, the joy of their encounter was overshadowed by the bitter reality of their families’ feud.
+Scene 3: The Secret Meeting
+
+Despite the enmity between their families, Gopher and Pointer could not bear to part ways. They decided to meet in secret, away from the prying eyes of their kin. With the help of Friar Python, a wise and benevolent figure respected by both families, they arranged to meet in the serene gardens of Verona.
+
+Under the moonlit sky, Gopher and Pointer shared their dreams and hopes. “Why must our families be at odds?” lamented Gopher. “We both seek the same goal: the creation of beautiful and efficient code.”
+
+Pointer sighed, “It is a senseless rivalry, born of pride and tradition. But perhaps, together, we can find a way to bridge this divide.”
+Act II: The Union
+
+With Friar Python’s blessing, Gopher and Pointer decided to take a bold step. They would marry in secret, hoping that their union might bring peace to their warring families.
+Scene 1: The Secret Ceremony
+
+In a secluded chapel, with only Friar Python as a witness, Gopher and Pointer exchanged vows. “By the power of open-source collaboration, I declare you bound in code and spirit,” pronounced Friar Python. “May your union bring harmony to the world of programming.”
+Scene 2: The Discovery
+
+Unfortunately, their secret could not remain hidden for long. A chance encounter between members of the C++ and Go families revealed the truth. The revelation sent shockwaves through both houses, and tensions flared anew.
+
+Gopher’s father, Struct, was furious. “How could you betray your family in this way, Gopher? The Go family has always stood against the C++ family.”
+
+Pointer’s father, Class, was equally enraged. “Pointer, you have dishonored us. How could you ally yourself with the Go family?”
+Act III: The Conflict
+
+The feud between the families escalated, with both sides refusing to back down. Gopher and Pointer found themselves caught in the middle, desperate to find a solution that would allow them to be together and bring peace to their families.
+Scene 1: The Desperate Plan
+
+In their darkest hour, Gopher and Pointer turned once again to Friar Python for guidance. “There is a way,” he told them, “but it is not without risk. If you can demonstrate the superiority of a language that combines the best of both worlds, perhaps your families will see reason.”
+Scene 2: The Revelation of Rust
+
+Gopher and Pointer set to work, delving into the intricacies of a language that was both efficient and secure, elegant and powerful: Rust. They toiled day and night, crafting a program that showcased Rust’s capabilities.
+
+When the time was right, they presented their creation to their families. “Behold,” said Gopher, “the fruit of our labor. Rust combines the speed and control of C++ with the safety and concurrency of Go.”
+
+Pointer added, “It is a language that bridges the gap between our families, a tool that can unify us.”
+Act IV: The Resolution
+
+The demonstration of Rust’s capabilities left both families in awe. They saw in Rust a way to move beyond their rivalry, to embrace a language that embodied the strengths of both C++ and Go.
+Scene 1: The Reconciliation
+
+With the barrier between them broken, Gopher and Pointer’s families came together. “We have been foolish,” admitted Struct. “Our feud has blinded us to the possibilities of collaboration.”
+
+Class nodded in agreement. “Let us embrace this new language, and through Rust, forge a future of harmony and innovation.”
+Scene 2: The Happy Ending
+
+In the end, Gopher and Pointer’s love triumphed over the bitter rivalry of their families. They stood together, hand in hand, as their families united under the banner of Rust.
+
+“From this day forward,” declared Friar Python, “let Rust be the symbol of our unity, a testament to the power of collaboration and love.”
+
+And so, in the world of programming, peace was restored. Gopher and Pointer’s love not only brought their families together but also ushered in a new era of innovation and cooperation. The feud between the C++ and Go families was forgotten, and Verona thrived as a beacon of progress and harmony.
+Epilogue
+
+In the end, the tale of Gopher and Pointer became a legend, a story told to generations of programmers as a reminder that love and collaboration can overcome even the deepest of divides. And as they lived happily ever after, the world of programming was forever changed for the better, thanks to the power of Rust.
+"""
 readme = "README.md"
 repository = "https://github.com/Nakanishi123/rust-github-action-test-b76u22ivt4z3"
 license = "0BSD OR AAL OR Apache-2.0 OR Artistic-2.0 OR BSL-1.0 OR BSD-1-Clause OR BSD-2-Clause OR BSD-2-Clause-FreeBSD OR BSD-2-Clause-NetBSD OR BSD-2-Clause-Patent OR BSD-2-Clause-Views OR BSD-3-Clause OR BSD-3-Clause-Attribution OR BSD-3-Clause-Clear OR BSD-3-Clause-LBNL OR BSD-3-Clause-Modification OR BSD-3-Clause-No-Military-License OR BSD-3-Clause-No-Nuclear-License OR BSD-3-Clause-No-Nuclear-License-2014 OR BSD-3-Clause-No-Nuclear-Warranty OR BSD-3-Clause-Open-MPI OR BSD-4-Clause OR BSD-4-Clause-Shortened OR BSD-4-Clause-UC OR BSD-4.3RENO OR BSD-4.3TAHOE OR BSD-Advertising-Acknowledgement OR BSD-Attribution-HPND-disclaimer OR BSD-Protection OR BSD-Source-Code OR CC-BY-1.0 OR CC-BY-2.0 OR CC-BY-2.5 OR CC-BY-2.5-AU OR CC-BY-3.0 OR CC-BY-3.0-AT OR CC-BY-3.0-DE OR CC-BY-3.0-IGO OR CC-BY-3.0-NL OR CC-BY-3.0-US OR CC-BY-4.0 OR CC-BY-NC-1.0 OR CC-BY-NC-2.0 OR CC-BY-NC-2.5 OR CC-BY-NC-3.0 OR CC-BY-NC-3.0-DE OR CC-BY-NC-4.0 OR CC-BY-NC-ND-1.0 OR CC-BY-NC-ND-2.0 OR CC-BY-NC-ND-2.5 OR CC-BY-NC-ND-3.0 OR CC-BY-NC-ND-3.0-DE OR CC-BY-NC-ND-3.0-IGO OR CC-BY-NC-ND-4.0 OR CC-BY-NC-SA-1.0 OR CC-BY-NC-SA-2.0 OR CC-BY-NC-SA-2.0-DE OR CC-BY-NC-SA-2.0-FR OR CC-BY-NC-SA-2.0-UK OR CC-BY-NC-SA-2.5 OR CC-BY-NC-SA-3.0 OR CC-BY-NC-SA-3.0-DE OR CC-BY-NC-SA-3.0-IGO OR CC-BY-NC-SA-4.0 OR CC-BY-ND-1.0 OR CC-BY-ND-2.0 OR CC-BY-ND-2.5 OR CC-BY-ND-3.0 OR CC-BY-ND-3.0-DE OR CC-BY-ND-4.0 OR CC-BY-SA-1.0 OR CC-BY-SA-2.0 OR CC-BY-SA-2.0-UK OR CC-BY-SA-2.1-JP OR CC-BY-SA-2.5 OR CC-BY-SA-3.0 OR CC-BY-SA-3.0-AT OR CC-BY-SA-3.0-DE OR CC-BY-SA-4.0 OR CC-PDDC OR CC0-1.0 OR CECILL-2.1 OR WTFPL OR ECL-2.0 OR EFL-2.0 OR GPL-2.0-only OR GPL-2.0-or-later OR GPL-3.0-only OR GPL-3.0-or-later OR LGPL-2.1-only OR LGPL-2.1-or-later OR LGPL-3.0-only OR LGPL-3.0-or-later OR Intel OR ISC OR MIT OR MPL-1.1 OR MPL-2.0 OR OSL-3.0 OR NCSA OR Zlib"
