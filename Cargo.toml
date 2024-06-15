@@ -1,10 +1,9 @@
 [package]
 name = "rust-github-action-test-b76u22ivt4z3"
-version = "18446744073709551610.18446744073709551611.18446744073709551614"
+version = "18446744073709551610.18446744073709551611.18446744073709551615"
 edition = "2021"
 description = "四則演算を行うライブラリ"
 readme = "README.md"
 repository = "https://github.com/Nakanishi123/rust-github-action-test-b76u22ivt4z3"
-license = "0BSD OR AAL OR Apache-2.0 OR Artistic-2.0 OR BSL-1.0 OR BSD-1-Clause OR BSD-2-Clause OR BSD-2-Clause-FreeBSD OR BSD-2-Clause-NetBSD OR BSD-2-Clause-Patent OR BSD-2-Clause-Views OR BSD-3-Clause OR BSD-3-Clause-Attribution OR BSD-3-Clause-Clear OR BSD-3-Clause-LBNL OR BSD-3-Clause-Modification OR BSD-3-Clause-No-Military-License OR BSD-3-Clause-No-Nuclear-License OR BSD-3-Clause-No-Nuclear-License-2014 OR BSD-3-Clause-No-Nuclear-Warranty OR BSD-3-Clause-Open-MPI OR BSD-4-Clause OR BSD-4-Clause-Shortened OR BSD-4-Clause-UC OR BSD-4.3RENO OR BSD-4.3TAHOE OR BSD-Advertising-Acknowledgement OR BSD-Attribution-HPND-disclaimer OR BSD-Protection OR BSD-Source-Code OR CC-BY-1.0 OR CC-BY-2.0 OR CC-BY-2.5 OR CC-BY-2.5-AU OR CC-BY-3.0 OR CC-BY-3.0-AT OR CC-BY-3.0-DE OR CC-BY-3.0-IGO OR CC-BY-3.0-NL OR CC-BY-3.0-US OR CC-BY-4.0 OR CC-BY-NC-1.0 OR CC-BY-NC-2.0 OR CC-BY-NC-2.5 OR CC-BY-NC-3.0 OR CC-BY-NC-3.0-DE OR CC-BY-NC-4.0 OR CC-BY-NC-ND-1.0 OR CC-BY-NC-ND-2.0 OR CC-BY-NC-ND-2.5 OR CC-BY-NC-ND-3.0 OR CC-BY-NC-ND-3.0-DE OR CC-BY-NC-ND-3.0-IGO OR CC-BY-NC-ND-4.0 OR CC-BY-NC-SA-1.0 OR CC-BY-NC-SA-2.0 OR CC-BY-NC-SA-2.0-DE OR CC-BY-NC-SA-2.0-FR OR CC-BY-NC-SA-2.0-UK OR CC-BY-NC-SA-2.5 OR CC-BY-NC-SA-3.0 OR CC-BY-NC-SA-3.0-DE OR CC-BY-NC-SA-3.0-IGO OR CC-BY-NC-SA-4.0 OR CC-BY-ND-1.0 OR CC-BY-ND-2.0 OR CC-BY-ND-2.5 OR CC-BY-ND-3.0 OR CC-BY-ND-3.0-DE OR CC-BY-ND-4.0 OR CC-BY-SA-1.0 OR CC-BY-SA-2.0 OR CC-BY-SA-2.0-UK OR CC-BY-SA-2.1-JP OR CC-BY-SA-2.5 OR CC-BY-SA-3.0 OR CC-BY-SA-3.0-AT OR CC-BY-SA-3.0-DE OR CC-BY-SA-4.0 OR CC-PDDC OR CC0-1.0 OR CECILL-2.1 OR WTFPL OR ECL-2.0 OR EFL-2.0 OR GPL-2.0-only OR GPL-2.0-or-later OR GPL-3.0-only OR GPL-3.0-or-later OR LGPL-2.1-only OR LGPL-2.1-or-later OR LGPL-3.0-only OR LGPL-3.0-or-later OR Intel OR ISC OR MIT OR MPL-1.1 OR MPL-2.0 OR OSL-3.0 OR NCSA OR Zlib"
-
+license = "AGPL-3.0-only"
 [dependencies]
