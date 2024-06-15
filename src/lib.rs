@@ -1,3 +1,7 @@
+use std::fs::File;
+use std::io::{self, Write};
+mod image;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
@@ -16,6 +20,13 @@ pub fn div(left: usize, right: usize) -> usize {
 
 pub fn modu(left: usize, right: usize) -> usize {
     left % right
+}
+
+pub fn save_add_image(file_path: &str) -> io::Result<()> {
+    let image = image::ADD_IMAGE;
+    let mut file = File::create(file_path)?;
+    file.write_all(image)?;
+    Ok(())
 }
 
 #[cfg(test)]
@@ -50,5 +61,11 @@ mod tests {
     fn test_modu() {
         let result = modu(2, 2);
         assert_eq!(result, 0);
+    }
+
+    #[test]
+    fn test_save_add_image() {
+        let result = save_add_image("add.png");
+        assert!(result.is_ok());
     }
 }
