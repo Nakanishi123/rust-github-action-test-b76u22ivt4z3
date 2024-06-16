@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io::{self, Write};
-mod image;
+mod img;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
@@ -23,7 +23,7 @@ pub fn modu(left: usize, right: usize) -> usize {
 }
 
 pub fn save_add_image(file_path: &str) -> io::Result<()> {
-    let image = image::ADD_IMAGE;
+    let image = img::ADD_IMAGE;
     let mut file = File::create(file_path)?;
     file.write_all(image)?;
     Ok(())
